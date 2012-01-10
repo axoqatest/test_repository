@@ -1,0 +1,2842 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Collection xmlns:p="http://schemas.microsoft.com/livelabs/pivot/collection/2009" SchemaVersion="1.0" Name="OnTime Database Excel Pivot Sample" xmlns="http://schemas.microsoft.com/collection/metadata/2009">
+  <FacetCategories>
+    <FacetCategory Name="Item Type" Type="String" p:IsFilterVisible="true" p:IsWordWheelVisible="true" p:IsMetaDataVisible="true" />
+    <FacetCategory Name="Item ID" Type="Number" p:IsFilterVisible="true" p:IsWordWheelVisible="false" p:IsMetaDataVisible="true" />
+    <FacetCategory Name="Project Name" Type="String" p:IsFilterVisible="true" p:IsWordWheelVisible="true" p:IsMetaDataVisible="true" />
+    <FacetCategory Name="Release Name" Type="String" p:IsFilterVisible="true" p:IsWordWheelVisible="true" p:IsMetaDataVisible="true" />
+  </FacetCategories>
+  <Items ImgBase="New Collection1_files\nderp4tp.hyp.xml">
+    <Item Id="0" Img="#0" Name="No Response from submit button">
+      <Description>&lt;P&gt;&lt;STRONG&gt;Edited by Tonya Blackburn (QA) on Tuesday, September 04, 2007 at 9:44 AM&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;
+&lt;HR&gt;
+&lt;/STRONG&gt;
+&lt;P&gt;&lt;/P&gt;
+&lt;P&gt;Submit button on main page does not submit form on form submission page&lt;/P&gt;</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="104" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Corporate Web Site" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Corporate Web Site" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="1" Img="#1" Name="add client sucess stories to Product listings">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Harry Tsao (SE) on Monday, September 17, 2007 at 3:37 PM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;jon would like to be able to add client sucess stories to the product pages</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="7" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Product Pages" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 2" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="2" Img="#2" Name="invoice templates do not save layout">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Marcus Funchess (QA) on Sunday, September 30, 2007 at 4:43 PM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+&lt;BR&gt;invoice templates do not save layout</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="103" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Invoicing" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="3" Img="#3" Name="Stored procedure used for searching is too slow">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Marcus Funchess (QA) on Wednesday, September 05, 2007 at 1:55 PM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+&lt;BR&gt;Stored procedure used for searching is too slow</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="19" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Corporate Web Site" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 1" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="4" Img="#4" Name="support pages missing branding footer">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Marcus Funchess (QA) on Saturday, September 08, 2007 at 3:10 PM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+&lt;BR&gt;support pages missing branding footer</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="32" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Support Pages" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 2" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="5" Name="mouseover text for images incorrect for product #23">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Marcus Funchess (QA) on Tuesday, September 11, 2007 at 12:24 PM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+&lt;BR&gt;mouseover text for images incorrect for product #23</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="40" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Support Pages" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 2" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="6" Name="scrollbar doesn't appear for product support information that span over 1 page">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Tonya Blackburn (QA) on Thursday, September 13, 2007 at 11:21 AM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+&lt;BR&gt;scrollbar doesn't appear for product support information that span over 1 page</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="48" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Support Pages" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 2" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="7" Name="javascript error in safari on about pages">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Marcus Funchess (QA) on Thursday, September 13, 2007 at 2:27 PM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+&lt;BR&gt;javascript error in safari on about pages</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="49" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="About Pages" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 2" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="8" Name="page rendered incorrectly in Firefox 1.5">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Marcus Funchess (QA) on Thursday, September 13, 2007 at 4:23 PM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+&lt;BR&gt;page rendered incorrectly in Firefox 1.5</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="52" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Support Pages" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 2" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="9" Name="asp error when using the back button on the browser while viewing support pages">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Tonya Blackburn (QA) on Sunday, September 16, 2007 at 12:33 PM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+&lt;BR&gt;asp error when using the back button on the browser while viewing support pages</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="65" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Support Pages" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 2" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="10" Name="unable to load page for product #50945">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Marcus Funchess (QA) on Sunday, September 16, 2007 at 3:43 PM&lt;/B&gt;&lt;BR&gt;
+&lt;HR&gt;
+&lt;BR&gt;&lt;BR&gt;unable to load page for product #50945,&lt;BR&gt;asp error is generated&lt;/DIV&gt;</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="68" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Product Pages" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 2" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="11" Name="highlight form controls disabled for non-admins">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Tonya Blackburn (QA) on Monday, September 24, 2007 at 11:28 AM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+&lt;BR&gt;highlight form controls disabled for non-admins</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="86" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Vendor Management" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="12" Name="scrollbar for the tree viewer does not show up when only 1 item is cut off">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Marcus Funchess (QA) on Wednesday, September 26, 2007 at 9:19 AM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+&lt;BR&gt;scrollbar for the tree viewer does not show up when only 1 item is cut off</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="88" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Product Pages" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 2" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="13" Name="opening more than 4 invoices at once causes non-propotional application slowdown">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Marcus Funchess (QA) on Wednesday, September 26, 2007 at 1:16 PM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+&lt;BR&gt;opening more than 4 invoices at once causes non-propotional application slowdown</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="89" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Invoicing" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="14" Name="image for #2329 is cut off">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Marcus Funchess (QA) on Thursday, September 27, 2007 at 10:34 AM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+&lt;BR&gt;image for #2329 is cut off</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="91" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Product Pages" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 2" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="15" Name="buffer overflow error when text field of over 10000 characters is accessed">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Marcus Funchess (QA) on Thursday, September 27, 2007 at 4:11 PM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+&lt;BR&gt;buffer overflow error when text field of over 10000 characters is accessed</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="94" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="CRM and Accounting" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="16" Name="Search strings including quotes causes no results to be returned">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Marcus Funchess (QA) on Friday, September 28, 2007 at 9:11 AM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+&lt;BR&gt;Search strings including quotes causes no results to be returned</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="95" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Product Pages" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 2" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="17" Name="buttons to not reposition properly when resizing DataViewer window">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Marcus Funchess (QA) on Friday, September 28, 2007 at 11:57 AM 
+&lt;HR&gt;
+&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;&lt;BR&gt;buttons to not reposition properly when resizing DataViewer window</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="96" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="General Ledger" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="18" Name="application close popup does not have window focus">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Marcus Funchess (QA) on Friday, September 28, 2007 at 1:06 PM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+&lt;BR&gt;application close popup does not have window focus</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="97" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Invoicing" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="19" Name="image viewer window size incorrect">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Marcus Funchess (QA) on Saturday, September 29, 2007 at 11:06 AM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+&lt;BR&gt;image viewer window size incorrect</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="98" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="About Pages" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 2" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="20" Name="multi select fails on invoice list">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Marcus Funchess (QA) on Sunday, September 30, 2007 at 9:31 AM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+&lt;BR&gt;multi select fails on invoice list</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="101" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Invoicing" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="21" Name="support images aligned left have a 10pix space between table border">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Marcus Funchess (QA) on Sunday, September 30, 2007 at 1:31 PM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+&lt;BR&gt;support images aligned left have a 10pix space between table border</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="102" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Support Pages" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 2" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="22" Name="QuickCalc not adding 6th field">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Harry Tsao (SE) on Saturday, September 01, 2007 at 4:50 PM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;quick calc does not seem to be adding the 6th field when you enter 6 entries to be added, see screenshot on accompanying incident</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="2" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Invoicing" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="23" Name="Seth's last name of Raymond is mispelled on the about pages ">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Nathan Cole (SE) on Sunday, September 02, 2007 at 12:28 PM&lt;/B&gt;&lt;BR&gt;jon reported that Seth Raymond's last name is spelled "Radmond" on the "whats new" section in the about pages&lt;/DIV&gt;(&lt;A href="http://abccompany.com/about/whatsnew.aspx" target=_blank&gt;http://abccompany.com/about/whatsnew.aspx&lt;/A&gt;)&lt;BR&gt;</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="4" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="About Pages" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 1" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="24" Name="Invoicing application crashes when you enter japanese characters">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Harry Tsao (SE) on Monday, September 03, 2007 at 12:12 PM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;when michael inputs japanese characters into the the invoicing application, the whole application crashes with no error message</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="5" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Invoicing" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="25" Name="wants to be able to print QuickCalc data">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Harry Tsao (SE) on Thursday, September 06, 2007 at 4:35 PM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;john would like the ability to print the calculations that he does within the QuickCalc tool in the general ledger application</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="6" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Invoicing" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="26" Name="Typo on comany about page">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Marcus Funchess (QA) on Monday, September 03, 2007 at 10:28 AM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+&lt;BR&gt;"Company" mispelled as 'Compny"</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="8" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="About Pages" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 1" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="27" Name="box around invoices overlaps the product list">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Marcus Funchess (QA) on Monday, September 03, 2007 at 4:30 PM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+&lt;BR&gt;noticed that the table overlaps the product list (firefox 2.0)</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="11" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Product Pages" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 1" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="28" Name="About pages missing copyright information">
+      <Description>&lt;DIV&gt;
+&lt;DIV&gt;&lt;B&gt;Edited by Tonya Blackburn (QA) on Tuesday, September 04, 2007 at 9:44 AM&lt;/B&gt;&lt;BR&gt;
+&lt;HR&gt;
+&lt;BR&gt;copyriight information is missing from the about pages&lt;/DIV&gt;&lt;/DIV&gt;</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="12" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="About Pages" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 1" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="29" Name="when editing a vendor, the location picklist is missing items">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Tonya Blackburn (QA) on Wednesday, September 05, 2007 at 4:07 PM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+&lt;BR&gt;when editing a vendor, the location picklist is missing items</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="21" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Vendor Management" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="30" Name="no confirmation when deleting a custom calculation">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Tonya Blackburn (QA) on Thursday, September 06, 2007 at 9:40 AM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+&lt;BR&gt;no confirmation when deleting a custom calculation</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="22" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="General Ledger" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="31" Name="Clicking 'no' on the confirmation to close the New Marketing list popup still closes the window">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Marcus Funchess (QA) on Friday, September 07, 2007 at 1:38 PM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+&lt;BR&gt;Clicking 'no' on the confirmation to close the New Marketing list popup still closes the window</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="28" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Marketing Campaigns" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="32" Name="contact dates displayed as ##:##:###">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Marcus Funchess (QA) on Monday, September 10, 2007 at 2:09 PM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+&lt;BR&gt;contact dates displayed as ##:##:### when attempting to display it in the web site</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="35" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Web and CRM" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="33" Name="image doesn't load for New Events header">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Tonya Blackburn (QA) on Wednesday, September 12, 2007 at 8:26 AM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+&lt;BR&gt;image doesn't load for New Events header</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="42" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Employee Portal" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 2" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="34" Name="saving an invoice with over 230 entries causes the application to halt">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Marcus Funchess (QA) on Wednesday, September 12, 2007 at 1:25 PM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+&lt;BR&gt;saving an invoice with over 230 entries causes the application to halt</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="45" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Invoicing" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="35" Name="HTML tags in &quot;About Me&quot; entries no longer being parsed">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Marcus Funchess (QA) on Friday, September 14, 2007 at 11:20 AM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+&lt;BR&gt;HTML tags in "About Me" entries no longer being parsed</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="55" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Employee Portal" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 2" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="36" Name="time stamping for employee news articles is incorrect">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Tonya Blackburn (QA) on Friday, September 14, 2007 at 12:27 PM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+&lt;BR&gt;time stamping for employee news articles is incorrect,&lt;BR&gt;appears to be an issue with the time zone offsets</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="56" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Employee Portal" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 2" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="37" Name="expense reprots for Sales not being sent to manager for approval">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Marcus Funchess (QA) on Saturday, September 15, 2007 at 12:59 PM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+&lt;BR&gt;expense reprots for Sales not being sent to manager for approval</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="61" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Expense Reports" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 2" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="38" Name="search returns 20 results per page even when user options specify a greater number">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Tonya Blackburn (QA) on Sunday, September 16, 2007 at 10:24 AM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+&lt;BR&gt;search returns 20 results per page even when user options specify a greater number</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="63" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Company Directory" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 2" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="39" Name="&quot;save search&quot; radio box greyed out even when security permission is granted">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Tonya Blackburn (QA) on Sunday, September 16, 2007 at 3:42 PM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+&lt;BR&gt;"save search" radio box greyed out even when security permission is granted</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="67" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="401K" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 2" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="40" Name="printing entries with more than 405 characters causes the right column to be cut off">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Marcus Funchess (QA) on Monday, September 17, 2007 at 8:29 AM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+&lt;BR&gt;printing entries with more than 405 characters causes the right column to be cut off</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="69" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Vendor Management" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="41" Name="javascript based dropdown menus unresponsive in IE7">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Marcus Funchess (QA) on Wednesday, September 19, 2007 at 10:41 AM&lt;/B&gt;&lt;BR&gt;
+&lt;HR&gt;
+&lt;BR&gt;javascript based dropdown menus unresponsive in IE7&lt;/DIV&gt;</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="73" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Employee Portal" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 2" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="42" Name="fields not validated when uploading expense spreadsheet">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Marcus Funchess (QA) on Wednesday, September 19, 2007 at 1:09 PM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+&lt;BR&gt;fields not validated when uploading expense spreadsheet</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="75" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Expense Reports" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 2" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="43" Name="CSV export has duplicate header rows">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Marcus Funchess (QA) on Thursday, September 20, 2007 at 2:09 PM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+&lt;BR&gt;&lt;BR&gt;CSV export has duplicate header rows</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="78" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Marketing Campaigns" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="44" Name="Delete confirmation popup not saving window position">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Marcus Funchess (QA) on Friday, September 21, 2007 at 9:10 AM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+&lt;BR&gt;Delete confirmation popup not saving window position</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="80" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="General Ledger" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="45" Name="page width incorrect in Opera">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Marcus Funchess (QA) on Sunday, September 23, 2007 at 2:33 PM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+&lt;BR&gt;page width incorrect in Opera</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="82" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Employee Handbook" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 2" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="46" Name="gap appears under header in older versions of Safari">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Marcus Funchess (QA) on Tuesday, September 25, 2007 at 10:42 AM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+&lt;BR&gt;gap appears under header in older versions of Safari</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="87" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Intranet Site" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 2" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="47" Name="pressing enter does not submit the form">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Marcus Funchess (QA) on Wednesday, September 26, 2007 at 4:34 PM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+&lt;BR&gt;pressing enter does not submit the form</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="90" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Expense Reports" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 2" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="48" Name="About Me section shows HTML code instead of rendering">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Marcus Funchess (QA) on Saturday, September 29, 2007 at 5:27 PM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+&lt;BR&gt;About Me section shows HTML code instead of rendering</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="99" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Employee Portal" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 2" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="49" Name="site never shows loading as &quot;Done&quot; in IE7">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Marcus Funchess (QA) on Sunday, September 30, 2007 at 9:31 AM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+&lt;BR&gt;site never shows loading as "Done" in IE7</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="100" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="401K" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 2" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="50" Name="Mistake on product description">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Tonya Blackburn (QA) on Monday, September 03, 2007 at 3:28 PM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+&lt;BR&gt;On the product description for the XL002, it states that there are 4 inputs, but the product has up to 5 inputs</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="9" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Product Pages" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 1" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="51" Name="Total is incorrect in the invoicing module">
+      <Description>&lt;DIV&gt;&lt;/DIV&gt;</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="10" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Invoicing" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="52" Name="application crashes when entering 0 for a field value">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Marcus Funchess (QA) on Friday, September 07, 2007 at 11:36 AM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+&lt;BR&gt;application crashes when entering 0 for a field value</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="27" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Workflow Management" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="53" Name="exporting an GL list as XML creates a file with the incorrect extension">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Tonya Blackburn (QA) on Saturday, September 08, 2007 at 9:27 AM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+&lt;BR&gt;exporting an GL list as XML creates a file with the incorrect extension,&lt;BR&gt;file is created with an XMM extension</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="29" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="General Ledger" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="54" Name="date field allows incorrect dates to be saved">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Tonya Blackburn (QA) on Tuesday, September 11, 2007 at 11:20 AM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+&lt;BR&gt;date field allows incorrect dates to be saved</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="39" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="BizTalk Automation" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="55" Name="minimized main navigation overlaps with logo image">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Tonya Blackburn (QA) on Wednesday, September 12, 2007 at 12:33 PM&lt;/B&gt;&lt;BR&gt;
+&lt;HR&gt;
+&lt;BR&gt;minimized main navigation overlaps with logo image&lt;/DIV&gt;</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="44" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Employee Portal" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 2" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="56" Name="not showing last 3 month's 401k entries">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Harry Tsao (SE) on Monday, September 10, 2007 at 2:30 PM&lt;/B&gt;&lt;BR&gt;the last 3 months of Matt's 401k info isn't showing up for him&lt;/DIV&gt;</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="50" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="401K" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 2" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="57" Name="on page 13 of the employee handbook, the word verbal is incorrect spelled as 'verbel'">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Harry Tsao (SE) on Tuesday, September 11, 2007 at 12:22 PM&lt;/B&gt;&lt;BR&gt;mispelling on page 13 of the employee handbook&lt;/DIV&gt;</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="51" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Employee Handbook" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 2" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="58" Name="unable to sort by Last Name column after a search">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Marcus Funchess (QA) on Saturday, September 15, 2007 at 10:05 AM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+&lt;BR&gt;unable to sort by Last Name column after a search</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="60" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Company Directory" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 2" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="59" Name="search string with quotes causes the appliction to crash">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Marcus Funchess (QA) on Tuesday, September 04, 2007 at 11:39 AM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+&lt;BR&gt;entering a search string with any number of quotes causes the application to crash</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="13" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Vendor Management" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="60" Name="Product #2320 has the wrong image">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Marcus Funchess (QA) on Tuesday, September 04, 2007 at 2:38 PM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+&lt;BR&gt;Product #2320 has the wrong image</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="15" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Product Pages" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 1" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="61" Name="link to &quot;Home&quot; broken on the pricing page for product #232">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Marcus Funchess (QA) on Wednesday, September 05, 2007 at 9:28 AM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+&lt;BR&gt;link to "Home" broken on the pricing page for product #232</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="17" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Product Pages" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 1" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="62" Name="Exception handled incorrect for invalid XML">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Tonya Blackburn (QA) on Wednesday, September 05, 2007 at 12:42 PM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+&lt;BR&gt;Exception handled incorrect for invalid XML</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="18" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="CRM and Accounting" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="63" Name="font for application title should be bold">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Marcus Funchess (QA) on Wednesday, September 05, 2007 at 2:59 PM&lt;BR&gt;
+&lt;HR&gt;
+&lt;/B&gt;&lt;BR&gt;&lt;BR&gt;font for application title should be bold&lt;/DIV&gt;</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="20" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Invoicing" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="64" Name="marketing reports missing &quot;Printed on Date&quot; when using the quickprint option">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Marcus Funchess (QA) on Thursday, September 06, 2007 at 9:41 AM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+&lt;BR&gt;'marketing reports missing "Printed on Date" when using the quickprint option</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="23" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Marketing Campaigns" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="65" Name="incorrect icon for save fucntion on main toolbar">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Marcus Funchess (QA) on Friday, September 07, 2007 at 8:38 AM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+&lt;BR&gt;incorrect icon for save fucntion on main toolbar</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="26" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Workflow Management" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="66" Name="&quot;More Info&quot; link on News page points to the home page">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Tonya Blackburn (QA) on Friday, September 14, 2007 at 9:23 AM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+&lt;BR&gt;"More Info" link on News page points to the home page</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="54" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Employee Portal" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 2" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="67" Name="Easter is shown on the incorrect day within the Company Holidays calendar">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Tonya Blackburn (QA) on Friday, September 14, 2007 at 4:16 PM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+&lt;BR&gt;Easter is shown on the incorrect day within the Company Holidays calendar&lt;BR&gt;</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="58" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="HR Portal" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 2" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="68" Name="incorrect style sheet for employee benefits page">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Tonya Blackburn (QA) on Wednesday, September 19, 2007 at 2:36 PM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+&lt;BR&gt;incorrect style sheet for employee benefits page</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="76" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Employee Handbook" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 2" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="69" Name="date picker does not work within IE7">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Marcus Funchess (QA) on Monday, September 24, 2007 at 8:27 AM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+&lt;BR&gt;date picker does not work within IE7</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="84" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Expense Reports" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 2" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="70" Name="incorrect submit button images">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Marcus Funchess (QA) on Thursday, September 27, 2007 at 12:25 PM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+&lt;BR&gt;incorrect submit button images</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="92" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="401K" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 2" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="71" Name="amounts are missing the last digit">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Tonya Blackburn (QA) on Tuesday, September 04, 2007 at 1:34 PM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+&lt;BR&gt;some pricing amounts are missing the last digit</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="14" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Intranet Site" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 1" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="72" Name="Name misspelled in directory">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Marcus Funchess (QA) on Wednesday, September 05, 2007 at 9:27 AM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+&lt;BR&gt;Cathy's last name of McGuire is mispelled as MGuire</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="16" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Company Directory" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 1" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="73" Name="controls do not stretch properly when resizing the main pane">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Tonya Blackburn (QA) on Thursday, September 06, 2007 at 12:34 PM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+&lt;BR&gt;controls do not stretch properly when resizing the main pane</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="24" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Expense Reports" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 1" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="74" Name="some names are cut off">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Marcus Funchess (QA) on Thursday, September 06, 2007 at 2:42 PM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+&lt;BR&gt;some names are cut off, the field is too small</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="25" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Company Directory" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 1" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="75" Name="report doesn't show more than 10 entries">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Tonya Blackburn (QA) on Saturday, September 08, 2007 at 1:31 PM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+&lt;BR&gt;report doesn't show more than 10 entries,&lt;BR&gt;on a report more than 10 entries, the entries greater than 10&amp;nbsp;are cut off</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="30" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Expense Reports" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 1" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="76" Name="cannot parse incomplete monthly data entries">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Tonya Blackburn (QA) on Saturday, September 08, 2007 at 2:21 PM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+&lt;BR&gt;parsing of&amp;nbsp;partially complete data entries causes a failure of object creation</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="31" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="401K" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 1" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="77" Name="typo on insurance info gadget">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Tonya Blackburn (QA) on Sunday, September 09, 2007 at 10:10 AM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+&lt;BR&gt;typo on insurance gadget,&lt;BR&gt;"insurance" is mispelled as "insurince"</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="33" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Employee Portal" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 1" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="78" Name="unable to save profile if no date is selected">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Marcus Funchess (QA) on Monday, September 10, 2007 at 8:57 AM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+&lt;BR&gt;unable to save profile if no date is selected</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="34" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="HR Portal" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 1" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="79" Name="text size incorrect in &quot;Employee Benefits&quot; seciton">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Marcus Funchess (QA) on Monday, September 10, 2007 at 3:18 PM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+&lt;BR&gt;text size incorrect in "Employee Benefits" seciton</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="36" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Employee Handbook" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 1" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="80" Name="wrong button image for copy tool">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Marcus Funchess (QA) on Tuesday, September 11, 2007 at 9:25 AM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+&lt;BR&gt;wrong button image for copy tool</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="37" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Expense Reports" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 1" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="81" Name="vertical divider position not saved on exit">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Marcus Funchess (QA) on Tuesday, September 11, 2007 at 11:19 AM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+&lt;BR&gt;vertical divider position not saved on exit</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="38" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Employee Handbook" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 1" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="82" Name="bullets for HTML editor of Company News entries groups 2 lines at a time for bullets">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Marcus Funchess (QA) on Tuesday, September 11, 2007 at 3:31 PM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+&lt;BR&gt;bullets for HTML editor of Company News entries groups 2 lines at a time for bullets</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="41" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="HR Portal" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 1" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="83" Name="when not entering a value for an entry, the error message is blank">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Marcus Funchess (QA) on Wednesday, September 12, 2007 at 10:37 AM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+&lt;BR&gt;when not entering a value for an entry, the error message is blank</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="43" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="General Ledger" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="84" Name="timeout exception not handled">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Tonya Blackburn (QA) on Wednesday, September 12, 2007 at 3:37 PM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+&lt;BR&gt;timeout exception not handled</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="46" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Web and CRM" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="85" Name="unable to change workflow assignments after initial creation">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Marcus Funchess (QA) on Thursday, September 13, 2007 at 9:29 AM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+&lt;BR&gt;unable to change workflow assignments after initial creation</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="47" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Workflow Management" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="86" Name="Total Amount missing in CRM application">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Harry Tsao (SE) on Friday, September 14, 2007 at 8:37 AM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;Transaciton #21329034 does not have a total amount when viewed from the Sales CRM application</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="53" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="CRM and Accounting" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="87" Name="installer crashes when being installed from a remote windows share">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Marcus Funchess (QA) on Friday, September 14, 2007 at 3:22 PM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+&lt;BR&gt;installer crashs when being installed from a remote windows share</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="57" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Vendor Management" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="88" Name="memory leak when using Windows Vista">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Tonya Blackburn (QA) on Saturday, September 15, 2007 at 9:08 AM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+&lt;BR&gt;memory leak when using Windows Vista</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="59" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Invoicing" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="89" Name="exception unhandled when field is blank">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Marcus Funchess (QA) on Saturday, September 15, 2007 at 3:07 PM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+&lt;BR&gt;exception unhandled when field is blank</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="62" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Web and CRM" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="90" Name="toolbar options not saved on exit">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Marcus Funchess (QA) on Sunday, September 16, 2007 at 10:25 AM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+&lt;BR&gt;toolbar options not saved on exit</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="64" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Workflow Management" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="91" Name="marking lists over 10000 entries unable to load after last build">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Tonya Blackburn (QA) on Sunday, September 16, 2007 at 2:39 PM&lt;/B&gt;&lt;BR&gt;
+&lt;HR&gt;
+&lt;BR&gt;marking lists over 10000 entries unable to load after last build&lt;/DIV&gt;</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="66" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Marketing Campaigns" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="92" Name="Application crashes if network connection is lost">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Marcus Funchess (QA) on Monday, September 17, 2007 at 8:32 AM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+&lt;BR&gt;Application crashes if network connection is lost</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="70" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Invoicing" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="93" Name="accounting security group does not allow users to create new entries">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Marcus Funchess (QA) on Tuesday, September 18, 2007 at 12:29 PM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+accounting security group does not allow users to create new entries</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="71" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="General Ledger" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="94" Name="installer for 4.87 fails to uninstall version 3.44 ">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Marcus Funchess (QA) on Tuesday, September 18, 2007 at 3:34 PM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+&lt;BR&gt;installer for 4.87 fails to uninstall version 3.44</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="72" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Invoicing" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="95" Name="Descriptions not being saved for marketing contacts">
+      <Description>&lt;DIV&gt;&lt;STRONG&gt;Edited by Tonya Blackburn (QA) on Wednesday, September 19, 2007 at 11:55 AM 
+&lt;HR&gt;
+&lt;BR&gt;&lt;/STRONG&gt;Descriptions not being saved for marketing contacts&lt;BR&gt;&lt;/DIV&gt;</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="74" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Marketing Campaigns" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="96" Name="workflow steps not inheriting security">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Marcus Funchess (QA) on Thursday, September 20, 2007 at 10:19 AM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+&lt;BR&gt;workflow steps not inheriting security</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="77" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Workflow Management" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="97" Name="Build 1210 crashes on load under windows XP with newest GTK patch">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Marcus Funchess (QA) on Thursday, September 20, 2007 at 5:56 PM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+&lt;BR&gt;Build 1210 crashes on load under windows XP with newest GTK patch</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="79" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Vendor Management" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="98" Name="tooltips are positioned far to the left of the applicable button">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Tonya Blackburn (QA) on Sunday, September 23, 2007 at 10:24 AM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+&lt;BR&gt;tooltips are positioned far to the left of the applicable button</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="81" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Workflow Management" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="99" Name="Image selector does not automatically search for GIF files">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Marcus Funchess (QA) on Sunday, September 23, 2007 at 3:43 PM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+&lt;BR&gt;Image selector does not automatically search for GIF files</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="83" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Marketing Campaigns" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="100" Name="&quot;Reset User Settings&quot; option does not reset picker position">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Marcus Funchess (QA) on Monday, September 24, 2007 at 11:27 AM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+&lt;BR&gt;"Reset User Settings" option does not reset picker position</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="85" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Vendor Management" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="101" Name="applicaiton becomes unresponsive under poor network conditions">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Marcus Funchess (QA) on Thursday, September 27, 2007 at 2:21 PM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;HR&gt;
+&lt;BR&gt;applicaiton becomes unresponsive under poor network conditions</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="93" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Invoicing" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="102" Name="QuickCalc tool in the Invoicing application does not add 6 values properly">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Nathan Cole (SE) on Saturday, September 01, 2007 at 1:14 PM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;donna noticed that when you create 6 values to be added in the QuickCalc tool, that it doesn't add the 6th value to the total</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Defect" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="3" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Invoicing" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="103" Name="Update installer to check for old versions and uninstall">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Donald Rowlett (PM) on Friday, September 14, 2007 at 11:33 AM&lt;/B&gt;&lt;BR&gt;&lt;BR&gt;Update installer to check for old versions and uninstall&lt;/DIV&gt;</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Feature" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="41" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Accounting" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="104" Name="Add stored procedure to clean up log table">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Donald Rowlett (PM) on Friday, September 14, 2007 at 11:34 AM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;&lt;BR&gt;Add stored procedure to clean up log table,&lt;BR&gt;Delete when LOGDATE is older than 4 weeks</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Feature" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="42" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Vendor Management" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="105" Name="update password validator to abide by new password restrictions">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Donald Rowlett (PM) on Wednesday, September 19, 2007 at 3:20 PM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;&lt;BR&gt;update password validator to abide by new password restrictions</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Feature" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="44" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Vendor Management" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="106" Name="Add user tagging to product pages">
+      <Description>&lt;P&gt;&lt;STRONG&gt;Edited by Donald Rowlett (PM) on Monday, September 10, 2007 at 2:20 PM&lt;/STRONG&gt;&lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;Add an option for users to tag product pages.&lt;/P&gt;</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Feature" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="67" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Corporate Web Site" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Corporate Web Site" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="107" Name="Expand product class to store mutli-language text">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Administrator on Thursday, September 27, 2007 at 4:30 PM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;&lt;BR&gt;Expand product class to store mutli-language text</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Feature" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="60" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Product Pages" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Corporate Web Site" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="108" Name="update synch class to pull new user rights">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Donald Rowlett (PM) on Friday, September 28, 2007 at 9:30 AM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;&lt;BR&gt;update synch class to pull new user rights</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Feature" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="62" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="CRM and Accounting" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="109" Name="Build 'External System' class">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Donald Rowlett (PM) on Thursday, September 20, 2007 at 10:26 AM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;&lt;BR&gt;Build 'External System' class&lt;BR&gt;</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Feature" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="47" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Workflow Management" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="110" Name="add search option for name field">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Donald Rowlett (PM) on Friday, September 21, 2007 at 10:26 AM&lt;/B&gt;&lt;BR&gt;&lt;BR&gt;add search option for name field&lt;/DIV&gt;</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Feature" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="48" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Vendor Management" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="111" Name="Add contact info for sucess stories">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Donald Rowlett (PM) on Saturday, September 22, 2007 at 4:29 PM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;&lt;BR&gt;Add contact info for sucess stories,&lt;BR&gt;create ui to allow readers to send email to the submitter</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Feature" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="50" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Product Pages" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Corporate Web Site" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="112" Name="Update financial picklists for optional entry">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Donald Rowlett (PM) on Tuesday, September 25, 2007 at 11:22 AM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;&lt;BR&gt;Update finacial picklists for optional entry</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Feature" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="53" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="General Ledger" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="113" Name="Add 'Always On Top' option for contact monitor">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Donald Rowlett (PM) on Thursday, September 27, 2007 at 8:17 AM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;&lt;BR&gt;Add 'Always On Top' option for contact monitor</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Feature" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="58" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Sales CRM" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="114" Name="create new user rights for editing/deleting sucess stories">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Donald Rowlett (PM) on Wednesday, September 26, 2007 at 2:27 PM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;&lt;BR&gt;create new user rights for editing/deleting sucess stories</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Feature" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="57" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Product Pages" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 2" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="115" Name="create new security right for admin of sucess stories">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Donald Rowlett (PM) on Saturday, September 22, 2007 at 2:20 PM&lt;/B&gt;&lt;BR&gt;&lt;BR&gt;create new security right for admin of sucess stories&lt;/DIV&gt;</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Feature" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="49" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Corporate Web Site" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 2" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="116" Name="Add new product to support pages">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Donald Rowlett (PM) on Friday, September 14, 2007 at 11:21 AM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;&lt;BR&gt;add the new product to the support pages using all new images and the support info supplied by marketing</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Feature" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="40" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Support Pages" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 2" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="117" Name="create screenshots for QuickHelp ">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Donald Rowlett (PM) on Friday, September 28, 2007 at 1:30 PM&lt;/B&gt;&lt;BR&gt;&lt;BR&gt;create screenshots for QuickHelp &lt;/DIV&gt;</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Feature" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="63" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Workflow Management" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="118" Name="Create new security rolls">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Donald Rowlett (PM) on Sunday, September 30, 2007 at 9:24 AM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;&lt;BR&gt;Add new security rolls:&lt;BR&gt;-Advanced Customer&lt;BR&gt;-Marketing User&lt;BR&gt;&lt;BR&gt;Create permissions, add to security UI</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Feature" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="65" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Invoicing" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="119" Name="Expand login help screen for corp web page">
+      <Description>&lt;DIV&gt;&lt;STRONG&gt;Edited by Donald Rowlett (PM) on Saturday, September 08, 2007 at 12:36 PM&lt;BR&gt;&lt;BR&gt;&lt;/STRONG&gt;add expanded help text, similar to the content on the intranet site,&lt;BR&gt;also include links to the new password recovery page&lt;BR&gt;&lt;/DIV&gt;</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Feature" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="28" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Corporate Web Site" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 2" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="120" Name="implement new button images on login page">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Donald Rowlett (PM) on Monday, September 10, 2007 at 2:20 PM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;&lt;BR&gt;implement new button images on login page,</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Feature" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="36" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Corporate Web Site" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 2" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="121" Name="Update links to use the new loadbalanced URL">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Donald Rowlett (PM) on Saturday, September 08, 2007 at 12:25 PM&lt;/B&gt;&lt;BR&gt;&lt;BR&gt;update all links on the About pages to point over to the new server,&lt;BR&gt;please implement the new URL model and remove all hardcoded URLs&lt;/DIV&gt;</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Feature" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="26" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="About Pages" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 2" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="122" Name="Add new product to product pages">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Donald Rowlett (PM) on Sunday, September 09, 2007 at 11:07 AM&lt;/B&gt;&lt;BR&gt;&lt;BR&gt;add the new product to the product pages&lt;/DIV&gt;</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Feature" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="31" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Product Pages" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 2" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="123" Name="Create new product comparison pages">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Donald Rowlett (PM) on Friday, September 07, 2007 at 9:16 AM&lt;/B&gt;&lt;BR&gt;add product compaison pages by creating a new tab,&lt;BR&gt;include ability to edit&lt;/DIV&gt;</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Feature" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="23" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Product Pages" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 1" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="124" Name="add client sucess stories to Product listings">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Harry Tsao (SE) on Monday, September 17, 2007 at 3:37 PM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;jon would like to be able to add client sucess stories to the product pages</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Feature" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="24" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Product Pages" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 1" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="125" Name="Create insurance provider widget">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Donald Rowlett (PM) on Thursday, September 13, 2007 at 2:12 PM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;&lt;BR&gt;add an insurance provider widget,&lt;BR&gt;static page displaying the website and contact information for the new insurance plan</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Feature" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="37" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Employee Portal" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 2" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="126" Name="Update contact display with new title list">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Donald Rowlett (PM) on Friday, September 14, 2007 at 11:17 AM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;&lt;BR&gt;Update contact display with new title list</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Feature" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="38" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Company Directory" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 2" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="127" Name="Add sort by 2nd column">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Donald Rowlett (PM) on Friday, September 14, 2007 at 11:19 AM&lt;/B&gt;&lt;BR&gt;&lt;BR&gt;Add sort by 2nd column to the sort dropdown&lt;/DIV&gt;</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Feature" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="39" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Expense Reports" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 2" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="128" Name="create date picker ">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Donald Rowlett (PM) on Saturday, September 01, 2007 at 9:29 AM&lt;/B&gt;&lt;BR&gt;Create a date picker for the Corp web sites,&lt;BR&gt;user will click on the date, then a small calendar will pop up underneath and allow them to select the date,&lt;BR&gt;be sure to highlight or bold the current date&lt;/DIV&gt;</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Feature" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="6" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Corporate Web Site" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 1" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="129" Name="Move insurance dropdown under Benefits menu">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Donald Rowlett (PM) on Sunday, September 30, 2007 at 10:28 AM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;&lt;BR&gt;Move insurance dropdown under Benefits menu</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Feature" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="66" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Employee Portal" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 2" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="130" Name="Update CSS to match new color scheme">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Donald Rowlett (PM) on Wednesday, September 19, 2007 at 3:25 PM&lt;/B&gt;&lt;BR&gt;&lt;BR&gt;Update CSS to match new color scheme&lt;/DIV&gt;</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Feature" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="46" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Intranet Site" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 2" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="131" Name="expand optionManager class to allow interal data fields">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Donald Rowlett (PM) on Monday, September 24, 2007 at 3:29 PM&lt;/B&gt;&lt;BR&gt;&lt;BR&gt;expand optionManager class to allow interal data fields&lt;/DIV&gt;</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Feature" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="52" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Employee Portal" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 2" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="132" Name="Add Notes field for invoices">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Donald Rowlett (PM) on Thursday, September 27, 2007 at 1:24 PM&lt;/B&gt;&lt;BR&gt;&lt;BR&gt;Add Notes field for invoices&lt;/DIV&gt;</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Feature" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="59" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Accounting" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="133" Name="remove antiquated entry builder">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Donald Rowlett (PM) on Tuesday, September 25, 2007 at 3:12 PM&lt;/B&gt;&lt;BR&gt;&lt;BR&gt;remove antiquated entry builder&lt;/DIV&gt;</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Feature" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="54" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Employee Portal" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 2" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="134" Name="Update request module to allow multiple entries">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Donald Rowlett (PM) on Tuesday, September 25, 2007 at 4:18 PM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;&lt;BR&gt;Update request module to allow multiple entries</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Feature" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="55" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="401K" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 2" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="135" Name="Add search to company publications">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Donald Rowlett (PM) on Wednesday, September 26, 2007 at 10:20 AM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;&lt;BR&gt;Add search to company publications,&lt;BR&gt;allow to search by keyword or date posted&lt;BR&gt;use existing search framework</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Feature" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="56" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Employee Portal" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 2" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="136" Name="Add ability to use back/forward buttons within the browser">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Nathan Cole (SE) on Sunday, September 23, 2007 at 11:48 AM&lt;/B&gt;&lt;BR&gt;when justin uses back or forward on the intranet site, it brings him to the login page&lt;/DIV&gt;</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Feature" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="51" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Intranet Site" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 2" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="137" Name="Add 'Whats New' to menu">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Donald Rowlett (PM) on Saturday, September 29, 2007 at 9:31 AM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;&lt;BR&gt;Add 'Whats New" to menu</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Feature" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="64" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Employee Handbook" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 2" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="138" Name="create link for each support article to its associated product on the product pages">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Donald Rowlett (PM) on Sunday, September 02, 2007 at 1:19 PM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;create link for each support article linking back to the appopriate product on the product pages</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Feature" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="9" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Support Pages" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 1" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="139" Name="create sucess stories tab structure for each product">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Donald Rowlett (PM) on Thursday, September 06, 2007 at 10:28 AM&lt;/B&gt;&lt;BR&gt;create sucess stories tab structure for each product,&lt;BR&gt;include content editor, image embedding and version control (similar to editing the product page itself)&lt;/DIV&gt;</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Feature" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="20" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Product Pages" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 1" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="140" Name="Add HTML text control to 'About Me' pages">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Donald Rowlett (PM) on Saturday, September 01, 2007 at 3:19 PM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;impliment HTML text control to the "About Me" editor</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Feature" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="7" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="About Pages" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 1" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="141" Name="Add sucess stories section">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Donald Rowlett (PM) on Monday, September 03, 2007 at 2:15 PM&lt;/B&gt;&lt;BR&gt;create sucess stories section as a new tab under the product pages,&lt;BR&gt;include Company with the logo image next to it,&lt;BR&gt;use HTML control to allow text to be modified&lt;/DIV&gt;</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Feature" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="12" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Product Pages" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 1" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="142" Name="create RSS feed for Company Announcements">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Donald Rowlett (PM) on Tuesday, September 18, 2007 at 11:18 AM&lt;/B&gt;&lt;BR&gt;&lt;BR&gt;create RSS feed for Company Announcements&lt;/DIV&gt;</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Feature" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="43" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="HR Portal" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 2" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="143" Name="add dropdown for user management ">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Donald Rowlett (PM) on Thursday, September 27, 2007 at 4:45 PM&lt;/B&gt;&lt;BR&gt;&lt;BR&gt;add dropdown for user management&lt;/DIV&gt;</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Feature" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="61" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="HR Portal" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 2" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="144" Name="create user selection list">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Donald Rowlett (PM) on Wednesday, September 19, 2007 at 3:23 PM&lt;/B&gt;&lt;BR&gt;&lt;BR&gt;create user selection list,&lt;BR&gt;link to contacts&lt;/DIV&gt;</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Feature" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="45" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Marketing Campaigns" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="145" Name="User would like to able to search the handbook">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Nathan Cole (SE) on Monday, September 10, 2007 at 10:39 AM&lt;BR&gt;&lt;/B&gt;&lt;BR&gt;cannot find the intellectual property section in the employee handbook&lt;/DIV&gt;</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Feature" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="29" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Employee Handbook" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 1" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="146" Name="Update SOAP xml schema">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Donald Rowlett (PM) on Saturday, September 08, 2007 at 12:18 PM&lt;/B&gt;&lt;BR&gt;&lt;BR&gt;update XML schema to include new date field: Initial Contact Date&lt;/DIV&gt;</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Feature" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="30" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Web and CRM" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="147" Name="Show Department on employee listing">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Donald Rowlett (PM) on Saturday, September 08, 2007 at 9:17 AM&lt;/B&gt;&lt;BR&gt;add Department to a search result for each employee,&lt;BR&gt;data exists in the database as EMPDEPTCODE, &lt;BR&gt;use dept code index from HR to build the plain text dept name&lt;/DIV&gt;</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Feature" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="25" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Company Directory" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 1" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="148" Name="Update dropdown menus to support new version of firefox">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Donald Rowlett (PM) on Saturday, September 08, 2007 at 12:30 PM&lt;BR&gt;&lt;/B&gt;&lt;BR&gt;firefox has updated their js dropdown model in their upcoming release,&lt;BR&gt;update dropdown menu code to be compatible with this upcoming release (2.1)&lt;/DIV&gt;</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Feature" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="27" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Employee Portal" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 1" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="149" Name="Add option to filter by date">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Donald Rowlett (PM) on Sunday, September 09, 2007 at 11:11 AM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;&lt;BR&gt;create the option to filter the 401k monthly entries for a selected date range</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Feature" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="32" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="401K" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 1" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="150" Name="Update date entry fields to use new date picker control">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Donald Rowlett (PM) on Sunday, September 09, 2007 at 2:20 PM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;Update date entry fields to use new date picker control for invoice creation</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Feature" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="33" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="General Ledger" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="151" Name="Update help and tooltips to reflect new UI images">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Donald Rowlett (PM) on Monday, September 10, 2007 at 8:25 AM&lt;/B&gt;&lt;BR&gt;&lt;BR&gt;update help and tooltip entries to reflect the new UI layout&lt;/DIV&gt;</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Feature" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="34" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Marketing Campaigns" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="152" Name="Add confirmation dialog for Deleting invoices">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Donald Rowlett (PM) on Monday, September 10, 2007 at 8:27 AM&lt;/B&gt;&lt;BR&gt;&lt;BR&gt;Add confirmation dialog for Deleting invoices&lt;/DIV&gt;</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Feature" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="35" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Expense Reports" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 1" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="153" Name="update intranet site branding to match new corp web site logos">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Donald Rowlett (PM) on Tuesday, September 04, 2007 at 8:10 AM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;update the intranet site branding to use the new logos and color scheme of the corp web site</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Feature" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="13" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Intranet Site" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 1" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="154" Name="Add reoccuring requests">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Donald Rowlett (PM) on Tuesday, September 04, 2007 at 10:03 AM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;build mechanics and UI for the option to allow a request to reoccur at day, week, and&amp;nbsp;month intervals</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Feature" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="14" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Vendor Management" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="155" Name="add quickcalc button to toolbar">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Donald Rowlett (PM) on Tuesday, September 04, 2007 at 1:12 PM&lt;/B&gt;&lt;BR&gt;add quickcalc button to main toolbar, also add option to add/remove button,&lt;BR&gt;use existing quickcalc image&lt;/DIV&gt;</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Feature" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="15" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Invoicing" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="156" Name="implement new long text control for Notes field">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Donald Rowlett (PM) on Tuesday, September 04, 2007 at 2:27 PM&lt;/B&gt;&lt;BR&gt;add the new long text control with rich text formating to the Notes field for GL entries&lt;/DIV&gt;</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Feature" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="16" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="General Ledger" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="157" Name="Update tooltips to reflect new process management utilities">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Donald Rowlett (PM) on Tuesday, September 04, 2007 at 4:23 PM&lt;/B&gt;&lt;BR&gt;Update all tooltops for the main toolbar to reflect the new names of process management utilities&lt;/DIV&gt;</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Feature" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="17" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Workflow Management" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="158" Name="Create invoice templates ">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Donald Rowlett (PM) on Wednesday, September 05, 2007 at 9:23 AM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;create DB space, logic, and UI for invoice templates,&lt;BR&gt;include the saving of user header, invoice items, and calculation structure</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Feature" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="18" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Invoicing" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="159" Name="Update help file to include new functionality">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Donald Rowlett (PM) on Wednesday, September 05, 2007 at 2:28 PM&lt;/B&gt;&lt;BR&gt;Update HR online help to include the functionality added in the last release&lt;/DIV&gt;</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Feature" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="19" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="HR Portal" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 1" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="160" Name="Update toolbar icons to match new theme">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Donald Rowlett (PM) on Sunday, September 02, 2007 at 10:22 AM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;create and implement new toolbar buttons to match theme,&lt;BR&gt;they should be the small icon on top of a blue circular background, similar to the new logo</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Feature" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="8" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Vendor Management" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="161" Name="Ability to browse company directory rather than search">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Harry Tsao (SE) on Saturday, September 01, 2007 at 10:36 AM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;Dawn Coleman from accounting would like the ability to browse the company directory instead of searching.&amp;nbsp; She would like to see a tree view with department and then the users underneath.</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Feature" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="2" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Company Directory" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 1" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="162" Name="user wants to be able to use military time on the HR portal">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Nathan Cole (SE) on Saturday, September 01, 2007 at 4:32 PM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;wants to be able to submit time sheets for contractors using military time on the HR Portal</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Feature" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="4" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="HR Portal" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 1" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="163" Name="Allow the general ledger upload funcation to handle spreadsheets with more than 256 columns">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Nathan Cole (SE) on Tuesday, September 04, 2007 at 8:24 AM&lt;/B&gt;&lt;BR&gt;jennifer is trying to upload a large Excel file that has around 500 columns into the General ledger application, but every time she tries, she gets an "Operation Failed" error message and none of the data shows up in her ledger.&lt;BR&gt;&lt;/DIV&gt;</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Feature" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="5" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="General Ledger" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="164" Name="wants to be able to print QuickCalc data">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Harry Tsao (SE) on Thursday, September 06, 2007 at 4:35 PM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;john would like the ability to print the calculations that he does within the QuickCalc tool in the general ledger application</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Feature" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="21" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Invoicing" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="165" Name="Expand date handler class to support reading in 24h format times">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Donald Rowlett (PM) on Thursday, September 06, 2007 at 3:28 PM&lt;/B&gt;&lt;BR&gt;&lt;STRONG&gt;Expand date handler class to support reading in 24h format times&lt;/STRONG&gt;&lt;/DIV&gt;</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Feature" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="22" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="CRM and Accounting" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="166" Name="Add images to the link creator UI">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Donald Rowlett (PM) on Monday, September 03, 2007 at 9:16 AM&lt;/B&gt;&lt;BR&gt;&lt;/DIV&gt;under the link creation UI, add the ability to use an image instead of just text</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Feature" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="10" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Marketing Campaigns" />
+        </Facet>
+      </Facets>
+    </Item>
+    <Item Id="167" Name="add link to 401K site in the benefits section">
+      <Description>&lt;DIV&gt;&lt;B&gt;Edited by Donald Rowlett (PM) on Monday, September 03, 2007 at 9:17 AM&lt;/B&gt;&lt;BR&gt;create a link back to the 401k site in the benefits section&lt;/DIV&gt;</Description>
+      <Facets>
+        <Facet Name="Item Type">
+          <String Value="Feature" />
+        </Facet>
+        <Facet Name="Item ID">
+          <Number Value="11" />
+        </Facet>
+        <Facet Name="Project Name">
+          <String Value="Employee Handbook" />
+        </Facet>
+        <Facet Name="Release Name">
+          <String Value="Sprint 1" />
+        </Facet>
+      </Facets>
+    </Item>
+  </Items>
+</Collection>
