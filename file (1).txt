@@ -1,2 +1,318 @@
-Some sample text for the filezzzz
-yay dan2
+<div>
+	<b>Edited by Karen Coppola on Wednesday, August 08, 2012 at 1:06 PM</b><br />  requested RMA from Hunter <br />  <br />  
+	<b>Edited by Karen Coppola on Wednesday, August 08, 2012 at 4:25 PM</b><br id="1344457571851" />  RMA# 
+	<span style="font-family: &quot;calibri&quot;,&quot;sans-serif&quot;; color: #1f497d; font-size: 11pt; mso-fareast-font-family: arial; mso-ansi-language: en-us; mso-fareast-language: en-us; mso-bidi-language: ar-sa; mso-fareast-theme-font: minor-latin;">4037<br />  </span>
+</div>  
+<div>
+	<span style="font-family: &quot;calibri&quot;,&quot;sans-serif&quot;; color: #1f497d; font-size: 11pt; mso-fareast-font-family: arial; mso-ansi-language: en-us; mso-fareast-language: en-us; mso-bidi-language: ar-sa; mso-fareast-theme-font: minor-latin;">SHIPPING TO HUNTER:</span>
+</div>  
+<div>
+	<span style="font-family: &quot;times new roman&quot;,&quot;serif&quot;; color: #000000; font-size: 12pt; mso-fareast-font-family: 'times new roman'; mso-ansi-language: en-us; mso-fareast-language: en-us; mso-bidi-language: ar-sa; mso-fareast-theme-font: minor-latin;"></span>
+</div>  
+<div>
+	<span style="font-family: &quot;times new roman&quot;,&quot;serif&quot;; color: #000000; font-size: 12pt; mso-fareast-font-family: 'times new roman'; mso-ansi-language: en-us; mso-fareast-language: en-us; mso-bidi-language: ar-sa; mso-fareast-theme-font: minor-latin;">Attn: RMA# 4037<br />  Hunter Technology Corporation <br />  2941 Corvin Drive <br />  SANTA CLARA, CA 95051-0705 </span>
+</div>  
+<dt>
+	<label></label>
+</dt>  
+<dt>	
+	<label>Tracking Number: 
+	</label>1ZV43W081295348705<br />  
+	<label>Service: 
+	</label>UPS 3 Day Select  
+	<div>
+		<label>Guaranteed By: </label>End of Day Monday, Aug 13, 2012 
+	</div>  
+	<div>
+	</div>  <br />  <br />  <b>Edited by Karen Coppola on Thursday, August 16, 2012 at 10:52 AM</b><br id="1345128752367" />  requested urgent status<br />  
+	<div><br />  <b>Edited by Tech Dept on Friday, August 24, 2012 at 8:47 AM</b><br id="1345812453540" />  RAS - The 4 9504's have been checked out but not tested as of yet.  Once they are tested I will update there status.  The 2 9506's (109283 &amp; 109287) both failed and will need to to back to Hunter again for repair.  Here is what is wrong with each:
+	</div>  
+	<div>109283 -  This board has a power to ground short at C145. The cause of this is that U32 was not replaced as stated originally with this NCP.  This Chip needs replacement and then the mod done.
+	</div>	
+	<div>109287 - The mod for U32 was not done on this board.  This causes there to be no -15v supplied.  Since it was powered up without the mod done as stated eariler this chip needs to be replaced and then the mod performed.
+	</div>  
+	<div>Both of these boards have been gven to Karen to be sent back to Hunter.
+	</div>  <br />  <br />  
+	<b>Edited by Karen Coppola on Friday, August 24, 2012 at 9:55 AM
+	</b><br id="1345817849908" />  REQUEST Another RMA from Hunter.<br />  
+	<div>S/N 109283
+	</div>  
+	<div>S/N 109287
+	</div>  
+	<div><br />  
+		<b>Edited by Karen Coppola on Monday, August 27, 2012 at 10:56 AM
+		</b><br id="1346079435115" />  Hunter RMA 4053 for S/N 109283 &amp; S/N 109287.
+	</div>  
+	<div>Shipping UPS 2 day tracking#: 1ZV43W080298990346</div>  
+	<div>
+		<span style="font-family: &quot;times new roman&quot;,&quot;serif&quot;; color: #000000; font-size: 12pt; mso-fareast-font-family: 'times new roman'; mso-ansi-language: en-us; mso-fareast-language: en-us; mso-bidi-language: ar-sa; mso-fareast-theme-font: minor-latin;">Attn: RMA# 4053<br />  Hunter Technology Corporation <br />  2941 Corvin Drive <br />  SANTA CLARA, CA 95051-0705 <br />  408-328-9712
+		</span>
+	</div>  
+</dt>  
+<dt>  
+	<div>
+		<span style="font-family: times new roman; font-size: 16px;"></span>
+	</div>  
+</dt>  
+<dt>  
+	<div>
+		<strong>Edited by Karen Coppola on Monday, September 10, 2012 at 1:45 PM
+		</strong><br id="1347299193742" />  Qty 2 9506 S/N 109283 &amp; S/N 109287 are back at DSPCon on the inspection shelf.
+	</div>  
+</dt>  
+<dt>  
+	<div></div>  
+</dt>  
+<dt>  
+	<div>
+		<strong>Edited by Tech Dept on Tuesday, September 11, 2012 at 11:34 AM
+		</strong><br id="1347377680513" />  Both of these boards are fixed and PASSED Factory Tests.
+	</div>  
+</dt>  
+<dt>  
+	<div><br />  
+		<b>Edited by Tech Dept on Monday, August 27, 2012 at 3:40 PM
+		</b><br id="1346096477623" />  <br />  RAS-  The 4 9504 boards (SN's 109203, 109206, 109208, 109210)have been tested and they all have failed.  They are all failing for the same thing per Greg L.  The "Cal Input Fails on All Channels".  Greg L should elaborate further on where the failure could be located on the boards.  Awaiting for a course of action to be determined. <br />  <br />  
+		<b>Edited by Tech Dept on Tuesday, August 28, 2012 at 2:04 PM
+		</b><br id="1346177108454" />  <br />  RAS - It has been determined that the problem is with U50 (DSN-1010639) the shift register.  This part needs to be removed, the board cleaned and a new chip placed down in the correct orientation on all four of these boards. <br />  
+		<b>Edited by Karen Coppola on Friday, September 07, 2012 at 1:20 PM
+		</b><br id="1347039632532" />  RMA requested from Hunter to repair 4 9504 boards SN's 109203, 109206, 109208, 109210.<br />  <br />  
+		<b>Edited by Karen Coppola on Monday, September 10, 2012 at 4:55 PM
+		</b><br id="1347310547513" />  
+		<span style="line-height: 115%; font-family: &quot;calibri&quot;,&quot;sans-serif&quot;; color: #1f497d; font-size: 11pt; mso-fareast-font-family: arial; mso-ansi-language: en-us; mso-fareast-language: en-us; mso-bidi-language: ar-sa; mso-fareast-theme-font: minor-latin;">Hunter RMA# 4063.  Shipping to Hunter today. Qty 
+			<span style="font-family: verdana; color: #000000; font-size: 10px;">4 9504 boards SN's 109203, 109206, 109208, 109210.
+			</span><br />  
+		</span>
+	</div>  
+</dt>  
+
+****BAD STUFF STARTS HERE****
+
+<dt>  
+	<div>
+		<span style="line-height: 115%; font-family: &quot;calibri&quot;,&quot;sans-serif&quot;; color: #1f497d; font-size: 11pt; mso-fareast-font-family: arial; mso-ansi-language: en-us; mso-fareast-language: en-us; mso-bidi-language: ar-sa; mso-fareast-theme-font: minor-latin;">  
+			<div>
+				<span style="font-family: 'times new roman','serif'; color: #000000; font-size: 12pt; mso-fareast-font-family: 'times new roman'; mso-ansi-language: en-us; mso-fareast-language: en-us; mso-bidi-language: ar-sa; mso-fareast-theme-font: minor-latin;">Attn: RMA# 4063<br />  Hunter Technology Corporation <br />  2941 Corvin Drive <br />  SANTA CLARA, CA 95051-0705 <br />  408-328-9712
+				</span>
+			</div>  
+		</span>  
+		<div><br />  <br />  
+			<b>Edited by Karen Coppola on Tuesday, November 27, 2012 at 4:53 PM
+			</b><br id="1354053381780" />  sent Renee at Hunter a request for status<br />  Qty 4 BRD-9504-AC-DIFF<br />  
+		</div>  
+	</div>  
+	<div class="MsoNormal" style="margin: 0in 0in 0pt; mso-outline-level: 1;">
+		<b>
+			<span style="font-family: &quot;tahoma&quot;,&quot;sans-serif&quot;; font-size: 10pt;"><br />  From:
+			</span>
+		</b>
+		<span style="font-family: &quot;tahoma&quot;,&quot;sans-serif&quot;; font-size: 10pt;"> Daniel Cox <br />  
+			<b>Sent:
+			</b> Tuesday, September 18, 2012 1:20 PM<br />  
+			<b>To:
+			</b> Renee Rocca<br />  
+			<b>Cc:
+			</b> Mark Evans; Daniel Cox; Truc Nguyen; Ty Le<br />  
+			<b>Subject:
+			</b> DSPCON PN 9504, job 22474, RMA 4063: returned for U50 replacements
+			<o:p>
+			</o:p>
+		</span>
+	</div>  
+	<div class="MsoNormal" style="margin: 0in 0in 0pt;">
+		<o:p>
+			<span style="font-family: calibri; font-size: 16px;"> 
+			</span>
+		</o:p>
+	</div>  
+	<div class="MsoNormal" style="margin: 0in 0in 0pt;">
+		<span style="font-family: calibri; font-size: 16px;">All 4 boards have been here before and we replaced the U50’s at that time.  Hence, my decision that these boards are NON-Warranty.  Most likely there is a design issue causing the U50’s to fail, not a Hunter workmanship issue.
+		</span>
+	</div>  <br />  <br />  
+	<b>Edited by Karen Coppola on Tuesday, December 11, 2012 at 5:10 PM
+	</b><br id="1355263822877" />  
+	<div class="MsoNormal" style="margin: 0in 0in 10pt;">
+		<span style="font-family: &quot;calibri&quot;,&quot;sans-serif&quot;; color: #993366; font-size: 16px;">response from Delroy: Engineering proposes that Hunter send these back. They have been there 3 times already and still don’t work. They also have no way to test after they attempt this level of repair so we have a better chance of correcting them here.
+			<o:p>
+			</o:p>
+		</span>
+	</div>  Renee will ship the board back to DSPCon.<br />  <br />  <br />  
+	<b>Edited by Karen Coppola on Monday, December 17, 2012 at 5:45 PM
+	</b><br id="1355784360420" />  boards are back.  no rework done.  assigned to Greg for troubleshooting.<br />  <br />  <br />  
+	<b>Edited by Greg Lese on Tuesday, January 15, 2013 at 1:55 PM
+	</b><br id="1358276151702" />  <br />  There is NO design issue with these boards.<br />  U34 was removed from the 4 PCBS. This was not to be populated and it was loading down the SPI signals to the DAC and shift register.<br />  <br />  S/N 109206 C15 was loose - probably caused during U38 replacement.<br />        No calibration inputs working.<br />        U50 must be replaced PROPERLY!<br />  <br />  S/N 109203 - Working OK. Fixed!<br />  <br />  S/N 109210 - No calibration inputs working.<br />        U50 must be replaced PROPERLY!<br />  <br />  S/N 109208 - No calibration inputs working.<br />        U50 must be replaced PROPERLY!<br />  <br />  
+	<strong>
+		<span style="color: #ff0000; text-decoration: underline;">S/N 109206, 109208 &amp; 109210 must be repaired.<br />  
+		</span>
+	</strong><br />  <br />  
+	<b>Edited by Donna Babey on Tuesday, February 19, 2013 at 7:54 AM
+	</b><br id="1361278521923" />  <br />  please provide an update -- not sure why this has not moved since 1/15 -- please advise what resources are needed to fix these boards.  does this need to be reallocated to the technicians? <br />  <br />  
+	<b>Edited by Greg Lese on Tuesday, February 19, 2013 at 8:39 AM
+	</b><br id="1361281187755" />  <br />  Three BRD-9504 PCBs must either be scrapped or sent back to Hunter to have U50 re-worked properly on these PCBs.<br />  These, as I recall, are part of the original group of BRD-9504 PCBs that Hunter assembled incorrectly. They oriented U50 wrong. Hunter has had great difficulty re-working this part. The PCB has been modified (Rev C) to change the land areas for U50 and make assembly and re-work easier.<br />  BUT, there have been no issues with the Rev B PCBs when Hunter places the part correctly the first time, so I do not understand why they can't be repaired properly.<br />  <br />  
+	<b>Edited by Peggy Weigand on Tuesday, February 19, 2013 at 11:29 AM
+	</b><br id="1361291692532" />  assign to DMB - to call Hunter to discuss the options and if Hunter cant do anything at all, then the boards will be scrapped and given to engineering with gray spray paint on them.<br />  
+	<b>Edited by Karen Coppola on Wednesday, February 20, 2013 at 1:12 PM
+	</b><br id="1361383989841" />  
+	<strong>
+		<span style="color: #ff0000;">
+			<span style="font-family: 'tahoma','sans-serif'; color: #000000; font-size: 10pt; mso-fareast-font-family: arial; mso-ansi-language: en-us; mso-fareast-language: en-us; mso-bidi-language: ar-sa; mso-fareast-theme-font: minor-latin;">From:
+			</span>
+			<span style="font-family: 'tahoma','sans-serif'; color: #000000; font-size: 10pt; mso-fareast-font-family: arial; mso-ansi-language: en-us; mso-fareast-language: en-us; mso-bidi-language: ar-sa; mso-fareast-theme-font: minor-latin;"> Daniel Cox  Sent: Tuesday, February 19, 2013 1:16 PM<br />  
+			</span><br />  
+			<p class="MsoListParagraph" style="text-indent: -0.25in; margin: 0in 0in 0pt 0.5in; mso-list: l0 level1 lfo1;">
+				<span style="color: #000000;">
+					<span style="mso-fareast-font-family: calibri; mso-list: ignore;">
+						<span style="font-family: calibri; font-size: 16px;">1.
+						</span>
+						<span style="font: 7pt 'times new roman';">       
+						</span>
+					</span>
+					<span style="font-family: calibri; font-size: 16px;">9504-AC-DIFF:  U50 issues
+					</span>
+				</span>
+			</p>  
+			<p class="MsoListParagraph" style="text-indent: -0.25in; margin: 0in 0in 0pt 1in; mso-list: l0 level2 lfo1;">
+				<span style="color: #000000;">
+					<span style="mso-fareast-font-family: calibri; mso-list: ignore;">
+						<span style="font-family: calibri; font-size: 16px;">a.
+						</span>
+						<span style="font: 7pt 'times new roman';">       
+						</span>
+					</span>
+					<span style="font-family: calibri; font-size: 16px;">The U50’s were mis-oriented by Hunter originally.  The U50’s were replaced with new U50’s and correctly oriented(see CAR4680), but some boards continued to fail, not all boards.
+					</span>
+				</span>
+			</p>  
+			<p class="MsoListParagraph" style="text-indent: -0.25in; margin: 0in 0in 0pt 1in; mso-list: l0 level2 lfo1;">
+				<span style="color: #000000;">
+					<span style="mso-fareast-font-family: calibri; mso-list: ignore;">
+						<span style="font-family: calibri; font-size: 16px;">b.
+						</span>
+						<span style="font: 7pt 'times new roman';">      
+						</span>
+					</span>
+					<span style="font-family: calibri; font-size: 16px;">Failing boards had new U50’s installed when they returned the second time, but it appears that some continue to fail.
+					</span>
+				</span>
+			</p>  
+			<p class="MsoListParagraph" style="text-indent: -1.5in; margin: 0in 0in 0pt 1.5in; mso-list: l0 level3 lfo1; mso-text-indent-alt: -9.0pt;">
+				<span style="color: #000000;">
+					<span style="mso-fareast-font-family: calibri; mso-list: ignore;">
+						<span style="font: 7pt 'times new roman';">                                                               
+						</span>
+						<span style="font-family: calibri; font-size: 16px;">i.
+						</span>
+						<span style="font: 7pt 'times new roman';">      
+						</span>
+					</span>
+					<span style="font-family: calibri; font-size: 16px;">The customer’s note says that U34 was loaded and should not have been loaded.  U34 is not on the attached BOM;  this problem was not noticed by Hunter.  U34 caused some functional failure mode(s).
+					</span>
+				</span>
+			</p>  
+			<p class="MsoListParagraph" style="text-indent: -0.25in; margin: 0in 0in 0pt 1in; mso-list: l0 level2 lfo1;">
+				<span style="color: #000000;">
+					<span style="mso-fareast-font-family: calibri; mso-list: ignore;">
+						<span style="font-family: calibri; font-size: 16px;">c.
+						</span>
+						<span style="font: 7pt 'times new roman';">       
+						</span>
+					</span>
+					<span style="font-family: calibri; font-size: 16px;">The customer is requesting U50’s to be replaced again.  
+					</span>
+				</span>
+			</p>  
+			<p class="MsoListParagraph" style="text-indent: -1.5in; margin: 0in 0in 0pt 1.5in; mso-list: l0 level3 lfo1; mso-text-indent-alt: -9.0pt;">
+				<span style="color: #000000;">
+					<span style="mso-fareast-font-family: calibri; mso-list: ignore;">
+						<span style="font: 7pt 'times new roman';">                                                               
+						</span>
+						<span style="font-family: calibri; font-size: 16px;">i.
+						</span>
+						<span style="font: 7pt 'times new roman';">      
+						</span>
+					</span>
+					<span style="font-family: calibri; font-size: 16px;">The customer is asking that the U50’s be installed ‘properly’ this time, but it is unclear what is wrong with the U50’s.
+					</span>
+				</span>
+			</p>  
+			<p class="MsoListParagraph" style="text-indent: -0.25in; margin: 0in 0in 0pt 2in; mso-list: l0 level4 lfo1;">
+				<span style="color: #000000;">
+					<span style="mso-fareast-font-family: calibri; mso-list: ignore;">
+						<span style="font-family: calibri; font-size: 16px;">1.
+						</span>
+					<span style="font: 7pt 'times new roman';">       
+					</span>
+				</span>
+				<span style="font-family: calibri; font-size: 16px;">Are the U50’s mis-oriented?  If yes, please have the customer take pictures of the U50’s.  
+				</span>
+				</span>
+			</p>  
+			<p class="MsoListParagraph" style="text-indent: -0.25in; margin: 0in 0in 0pt 2in; mso-list: l0 level4 lfo1;">
+				<span style="color: #000000;">
+					<span style="mso-fareast-font-family: calibri; mso-list: ignore;">
+						<span style="font-family: calibri; font-size: 16px;">2.
+						</span>
+						<span style="font: 7pt 'times new roman';">       
+						</span>
+					</span>
+					<span style="font-family: calibri; font-size: 16px;">Were the U50’s somehow damaged electrically because of the U34 being installed on the board?
+					</span>
+				</span>
+			</p>  
+			<p class="MsoListParagraph" style="text-indent: -0.25in; margin: 0in 0in 0pt 2in; mso-list: l0 level4 lfo1;">
+				<span style="color: #000000;">
+					<span style="mso-fareast-font-family: calibri; mso-list: ignore;">
+						<span style="font-family: calibri; font-size: 16px;">3.
+						</span>
+						<span style="font: 7pt 'times new roman';">       
+						</span>
+					</span>
+					<span style="font-family: calibri; font-size: 16px;">Is there an Ohm measurement or other measurement that Hunter can use to verify the failure mode when the boards return?  In this way, Hunter can replace the U50’s and verify  the measurement before sending the boards back to DSPCON.
+					</span>
+				</span>
+			</p>  
+			<span style="font-family: 'calibri','sans-serif'; color: #000000; font-size: 11pt; mso-fareast-font-family: arial; mso-ansi-language: en-us; mso-fareast-language: en-us; mso-bidi-language: ar-sa; mso-fareast-theme-font: minor-latin;">If there are other components on the board that could cause the functional errors, possibly they should be replaced along with the U50’s in case the U50’s are not the problem.
+			</span><br />  <br />  
+			<span style="text-decoration: underline;">Shipping BRD-9504 S/N 109206, 109208 &amp; 109210 to Hunter - RMA# 4193<br />  
+			</span>
+		</span>
+	</strong><br />  
+	<span style="font-size: 14px;">SHIP TO: <br />  
+	</span>
+	<span style="font-family: 'arial','sans-serif'; font-size: 14px; mso-fareast-font-family: 'times new roman'; mso-ansi-language: en-us; mso-fareast-language: en-us; mso-bidi-language: ar-sa;">Hunter Technology Corporation<br />  Attn: Renee Rocca - RMA# 4193<br />  2941 Corvin Drive<br />  SANTA CLARA, CA 95051-0705<br />  408-328-9712
+	</span> <br />  <br />  
+</dt>  
+
+*** BAD ENDS HERE ***
+*******GOOD BELOW******
+
+<dt>
+	<label>Tracking Number: 
+	</label>1ZV43W080296272929<br />  
+	<label>Service: 
+	</label>UPS 2nd Day Air<br />  
+	<label>Guaranteed By: 
+	</label>End of Day Friday, Feb 22, 2013 
+</dt>  
+<dt><br />  
+	<b>Edited by Greg Lese on Wednesday, February 20, 2013 at 3:16 PM
+	</b><br />  Regarding the above comments from Hunter:<br />  U50 was not properly soldered when replaced.<br />  There is no easy way of determining if U50 is correctly soldered without active test circuits connected to the PCB.<br />  It appears there may be difficulty in preparing the PCB for the replacement IC and/or aligning the new IC on the PCB. Maybe there is a problem with the part moving as the solder is reflowed, etc.<br />  As stated before, new PCBs do not have the problem of bad solder connections. <br />  <br />  
+	<b>Edited by Karen Coppola on Friday, March 08, 2013 at 4:18 PM
+	</b><br id="1362777559790" />  
+	<span style="font-family: &quot;calibri&quot;,&quot;sans-serif&quot;; color: #1f497d; font-size: 11pt; mso-fareast-font-family: arial; mso-ansi-language: en-us; mso-fareast-language: en-us; mso-bidi-language: ar-sa; mso-fareast-theme-font: minor-latin;">STATUS UPDATE from Hunter:  we are waiting on the U50 parts.  Should ship on Monday.
+	</span> <br />  <br />  
+	<b>Edited by Lenny Ruggiero on Thursday, March 14, 2013 at 3:54 PM
+	</b><br id="1363291809725" />  S/N 109203 - Working OK. Fixed!<br />  THis board serial (109203) was tested by Greg on 1/15/13 should be returned to stock<br />  tested ok<br />  <br />  
+	<b>Edited by Karen Coppola on Monday, March 18, 2013 at 1:10 PM
+	</b><br id="1363626636500" />  Rcvd back from Hunter Qty 3 
+	<strong>
+		<span style="color: #ff0000; text-decoration: underline;">BRD-9504 S/N 109206, 109208 &amp; 109210 to Hunter - RMA# 4193
+		</span>
+	</strong><br />  removed and replaced U50 and passet test, final inspection.  these boards are now in stock.<br />  <br />  assigned to Peggy to close th DEFECT.<br />  <br />  <br />  
+	<b>Edited by Peggy Weigand on Tuesday, March 19, 2013 at 11:41 AM
+	</b><br id="1363707976124" />  <br />  assign to Joe to put on inspection shelf.  Then notify techs (James) once that is done <br />  <br />  
+	<b>Edited by Peggy Weigand on Tuesday, April 02, 2013 at 11:17 AM
+	</b><br id="1364916012706" />  <br />  James to talk to Ed on this <br />  <br />  
+	<b>Edited by Lenny Ruggiero on Thursday, April 11, 2013 at 2:10 PM
+	</b><br id="1365703913705" />  <br />  U50 was not properly soldered when reworked at Hunter all 3  BRD-9504 PCBs failed the Production test. I removed U50 on all the  BRD-9504 PCBs and was able to successfuly install U50. All boards where thermal cycled and were retested passed all tests.<br />  <br />    BRD-9504 PCBs 109210 Passed test <br />    BRD-9504 PCBs 109206 Passed test<br />    BRD-9504 PCBs 109208 Passed test<br />  Returned to inventory. 
+</dt>  
