@@ -20,5 +20,6 @@ l
 
 tt
 
-win 7 - 2
-win 8 - 1
+win 7 -  2
+win 8 -  1
+win 10 - 1
