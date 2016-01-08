@@ -20,6 +20,9 @@ ll
 
 tt
 
-win 7 -  4
+
+win 7 -  5
+
 win 8 -  2
+
 win 10 - 1
