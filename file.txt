@@ -21,8 +21,7 @@ ll
 tt
 
 
-win 7 -  5
-
+win 7 -  7
 win 8 -  2
 
 win 10 - 1
