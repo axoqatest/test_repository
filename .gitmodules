@@ -1,0 +1,8 @@
+[submodule "public-test"]
+	path = public-test
+[submodule "public-test"]
+	url = https://github.com/rmccue/test-repository.git
+[submodule "public-test-repo"]
+	path = public-test-repo
+[submodule "public-test-repo"]
+	url = https://github.com/rmccue/test-repository.git
