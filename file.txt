@@ -23,3 +23,11 @@ win 8 -  2
 
 win 10 - 1
 x
+
+function poop(){
+  foo();
+}  
+
+
+
+lala
