@@ -1,7 +1,12 @@
 Some simple text for the filezzzxzzzzzzzz
 morehjjkl;jkl.,
+<<<<<<< HEAD
 again
 and againzzzzz
+=======
+againasdf
+and againzzzzzzzfs
+>>>>>>> c4cdd4b... testing :notes: stuff
 yoyozzzz
 lalalalalala
 hahaha
